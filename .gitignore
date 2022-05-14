@@ -29,4 +29,9 @@ lerna-debug.log*
 # IDE - VSCode
 # .vscode
 
+#configuracion
 .env
+
+#replit.com
+.replit
+replit.nix
