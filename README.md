@@ -2,4 +2,4 @@
 Verificar si el bot de discord esta activo.
 
 
-node v12.16.1
+node v12.22.10
